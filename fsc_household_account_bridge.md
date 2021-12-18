@@ -1,5 +1,7 @@
 # FSC_HOUSEHOLD_ACCOUNT_BRIDGE
 
+[Back to index](./index.md)
+
 ---
 
 Which accounts are in which households.  This is derived from the household-party and party-account bridges.

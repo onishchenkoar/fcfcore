@@ -1,5 +1,7 @@
 # FSC_ACCOUNT_ANALYSIS_DIM
 
+[Back to index](./index.md)
+
 ---
 
 Analytical data captured periodically (as often as client decides).  No history is maintained.

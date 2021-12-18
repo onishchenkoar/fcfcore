@@ -1,5 +1,7 @@
 # FSC_PEER_GROUP_ENTITY_HISTORY
 
+[Back to index](./index.md)
+
 ---
 
 Table to hold entity history statistics

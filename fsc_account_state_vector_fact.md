@@ -1,5 +1,7 @@
 # FSC_ACCOUNT_STATE_VECTOR_FACT
 
+[Back to index](./index.md)
+
 ---
 
 Fact table to hold daily account state vector.

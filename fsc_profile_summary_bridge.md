@@ -1,5 +1,7 @@
 # FSC_PROFILE_SUMMARY_BRIDGE
 
+[Back to index](./index.md)
+
 ---
 
 Bridge table to group together summary groups with profile groups.

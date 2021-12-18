@@ -1,5 +1,7 @@
 # FSC_PROFILE_GROUP
 
+[Back to index](./index.md)
+
 ---
 
 Table to hold second level of grouping of transaction types for peer group analysis.  A profile group can contain one or more summary groups.

@@ -1,5 +1,7 @@
 # FSC_TRANSACTION_STATUS_DIM
 
+[Back to index](./index.md)
+
 ---
 
 The outcome of a transaction e.g. SUCCESS or FAILURE because EXCEEDED DAILY LIMIT.

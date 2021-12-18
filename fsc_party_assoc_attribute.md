@@ -1,5 +1,7 @@
 # FSC_PARTY_ASSOC_ATTRIBUTE
 
+[Back to index](./index.md)
+
 ---
 
 table for defining the attributes for party to party relationship. For example, an record can be created to store the percentage of  John Doe owns ABC company where John Doe relates to ABC company as an Owner.

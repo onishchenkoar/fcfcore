@@ -1,5 +1,7 @@
 # FSC_ACCOUNT_PROFILE_FACT
 
+[Back to index](./index.md)
+
 ---
 
 A monthly snapshot of an account's transactional activity.

@@ -1,5 +1,7 @@
 # FSC_EXT_PARTY_ACCOUNT_DIM
 
+[Back to index](./index.md)
+
 ---
 
 Facts about an external party (i.e. non-customer, organization or individual) captured on a transaction e.g. wire remitter or beneficiary.

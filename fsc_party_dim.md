@@ -1,5 +1,7 @@
 # FSC_PARTY_DIM
 
+[Back to index](./index.md)
+
 ---
 
 Any individual or organization that plays a role on an account.  Types include: Primary Owners, Secondary Owners, Authorized Signers, Beneficiaries, Insured.

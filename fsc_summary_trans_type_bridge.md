@@ -1,5 +1,7 @@
 # FSC_SUMMARY_TRANS_TYPE_BRIDGE
 
+[Back to index](./index.md)
+
 ---
 
 Bridge table to group together transaction types with summary groups.

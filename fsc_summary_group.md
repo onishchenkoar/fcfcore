@@ -1,5 +1,7 @@
 # FSC_SUMMARY_GROUP
 
+[Back to index](./index.md)
+
 ---
 
 Table to hold first level of grouping of transaction types for peer group analysis.  A summary group can have one or more transaction types.

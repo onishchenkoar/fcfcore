@@ -1,5 +1,7 @@
 # FSC_PARTY_SEQUENCE
 
+[Back to index](./index.md)
+
 ---
 
 The next identifier available to be used as a party_key in fsc_party_dim. This table is used by both the ETL process and the UI for generating new fsc_party_dim records. The user should read this value and immediately increment, update and commit to allow the next user access.

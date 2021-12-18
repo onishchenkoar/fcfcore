@@ -1,5 +1,7 @@
 # FSC_ASSOCIATE_DIM
 
+[Back to index](./index.md)
+
 ---
 
 An associate of the financial institution who has played a role in the execution of a transaction or plays a role in the managment of an account.  e.g. Teller, Insurance Agent, Account Manager.

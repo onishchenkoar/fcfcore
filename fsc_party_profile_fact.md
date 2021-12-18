@@ -1,5 +1,7 @@
 # FSC_PARTY_PROFILE_FACT
 
+[Back to index](./index.md)
+
 ---
 
 A monthly snapshot of a party's transactional activity.

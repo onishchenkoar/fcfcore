@@ -1,5 +1,7 @@
 # FSC_PARTY_ASSOC
 
+[Back to index](./index.md)
+
 ---
 
 Relates one party to another. The relationship is described by the relationship_type_code.

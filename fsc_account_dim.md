@@ -1,5 +1,7 @@
 # FSC_ACCOUNT_DIM
 
+[Back to index](./index.md)
+
 ---
 
 Any financial account of interest to a financial institution for the purposes of detecting anti-money laundering activities.  Typically these are customer accounts, but they could also be house accounts.

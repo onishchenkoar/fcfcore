@@ -1,5 +1,7 @@
 # FSC_TRANSACTION_TYPE_DIM
 
+[Back to index](./index.md)
+
 ---
 
 A fixed classification of transactions used to analyze transactions in a consistent manner.

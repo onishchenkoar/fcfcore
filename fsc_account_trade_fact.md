@@ -1,5 +1,7 @@
 # FSC_ACCOUNT_TRADE_FACT
 
+[Back to index](./index.md)
+
 ---
 
 A record of brokerage trading transactions.  e.g. buying and selling equities.
