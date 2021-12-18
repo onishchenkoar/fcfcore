@@ -1,4 +1,4 @@
-# FSC_PARTY_SEQUENCE
+# **FSC_PARTY_SEQUENCE**
 
 ---
 

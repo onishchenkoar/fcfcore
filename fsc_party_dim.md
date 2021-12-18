@@ -1,4 +1,4 @@
-# FSC_PARTY_DIM
+# **FSC_PARTY_DIM**
 
 ---
 

@@ -1,4 +1,4 @@
-# FSC_CURRENCY_DIM
+# **FSC_CURRENCY_DIM**
 
 ---
 
