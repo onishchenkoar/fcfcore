@@ -1,6 +1,4 @@
-# FCFCORE
----
-SAS AML FCFCORE data dictionary
+# Index (alphabetically)
 
 |||
 |:---|:---|
