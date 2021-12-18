@@ -4,14 +4,14 @@
 
 Relates one party to another. The relationship is described by the relationship_type_code.
 
-| Attribute Name         | Attribute Definition                                                                   | Column Name            | Column Data Type   | Column Null Option   | Column Is PK   | Column Is FK   |
-|:-----------------------|:---------------------------------------------------------------------------------------|:-----------------------|:-------------------|:---------------------|:---------------|:---------------|
-| party_number           | Source system's customer identifier..                                                  | party_number           | VARCHAR2(50)       | Not Null             | No             | Yes            |
-| party_number           | Source system's customer identifier..                                                  | related_party_number   | VARCHAR2(50)       | Not Null             | No             | Yes            |
-| relationship_type_code | The type of relationship between the two parties.                                      | relationship_type_code | VARCHAR2(20)       | Not Null             | Yes            | No             |
-| segment_id             | Multibank configurations use this column to indicate which bank the record belongs to. | segment_id             | VARCHAR2(128)      | Not Null             | Yes            | No             |
-| change_begin_date      | Date from which this row was valid.                                                    | change_begin_date      | DATE               | Not Null             | Yes            | No             |
-| change_end_date        | Date to which this row was valid.                                                      | change_end_date        | DATE               | Not Null             | No             | No             |
-| change_current_ind     | Is this the current instance (Y/N).                                                    | change_current_ind     | CHAR(1)            | Not Null             | No             | No             |
+| Attribute Name         | Attribute Definition                                                                   | Column Data Type   | Column Null Option   | Column Is PK   | Column Is FK   |
+|:-----------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:---------------|:---------------|
+| party_number           | Source system's customer identifier..                                                  | VARCHAR2(50)       | Not Null             | No             | Yes            |
+| party_number           | Source system's customer identifier..                                                  | VARCHAR2(50)       | Not Null             | No             | Yes            |
+| relationship_type_code | The type of relationship between the two parties.                                      | VARCHAR2(20)       | Not Null             | Yes            | No             |
+| segment_id             | Multibank configurations use this column to indicate which bank the record belongs to. | VARCHAR2(128)      | Not Null             | Yes            | No             |
+| change_begin_date      | Date from which this row was valid.                                                    | DATE               | Not Null             | Yes            | No             |
+| change_end_date        | Date to which this row was valid.                                                      | DATE               | Not Null             | No             | No             |
+| change_current_ind     | Is this the current instance (Y/N).                                                    | CHAR(1)            | Not Null             | No             | No             |
 
-[Back to index](./README.md)
+[Back to index](./index.md)

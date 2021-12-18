@@ -4,10 +4,10 @@
 
 The outcome of a transaction e.g. SUCCESS or FAILURE because EXCEEDED DAILY LIMIT.
 
-| Attribute Name         | Attribute Definition            | Column Name            | Column Data Type   | Column Null Option   | Column Is PK   | Column Is FK   |
-|:-----------------------|:--------------------------------|:-----------------------|:-------------------|:---------------------|:---------------|:---------------|
-| transaction_status_key | System generated surrogate key. | transaction_status_key | NUMBER(5)          | Not Null             | Yes            | No             |
-| status_desc            | e.g. SUCCESS, DENIED            | status_desc            | VARCHAR2(20)       | Null                 | No             | No             |
-| status_reason_desc     | e.g. EXCEEDED DAILY LIMIT       | status_reason_desc     | VARCHAR2(35)       | Null                 | No             | No             |
+| Attribute Name         | Attribute Definition            | Column Data Type   | Column Null Option   | Column Is PK   | Column Is FK   |
+|:-----------------------|:--------------------------------|:-------------------|:---------------------|:---------------|:---------------|
+| transaction_status_key | System generated surrogate key. | NUMBER(5)          | Not Null             | Yes            | No             |
+| status_desc            | e.g. SUCCESS, DENIED            | VARCHAR2(20)       | Null                 | No             | No             |
+| status_reason_desc     | e.g. EXCEEDED DAILY LIMIT       | VARCHAR2(35)       | Null                 | No             | No             |
 
-[Back to index](./README.md)
+[Back to index](./index.md)

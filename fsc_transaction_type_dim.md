@@ -4,16 +4,16 @@
 
 A fixed classification of transactions used to analyze transactions in a consistent manner.
 
-| Attribute Name        | Attribute Definition                               | Column Name           | Column Data Type   | Column Null Option   | Column Is PK   | Column Is FK   |
-|:----------------------|:---------------------------------------------------|:----------------------|:-------------------|:---------------------|:---------------|:---------------|
-| transaction_type_key  | Surrogate key                                      | transaction_type_key  | NUMBER(12)         | Not Null             | Yes            | No             |
-| funds_securities_code | F (funds i.e. money) vs S (securities)             | funds_securities_code | CHAR(1)            | Null                 | No             | No             |
-| funds_securities_desc | Descriptive version of the code for UI display.    | funds_securities_desc | VARCHAR2(20)       | Null                 | No             | No             |
-| transaction_cdi_code  | D-Debit, C-Credit, E-Event                         | transaction_cdi_code  | CHAR(1)            | Null                 | No             | No             |
-| transaction_cdi_desc  | Descriptive version of the code for UI display.    | transaction_cdi_desc  | VARCHAR2(20)       | Null                 | No             | No             |
-| primary_medium_desc   | e.g. Cash, Check.                                  | primary_medium_desc   | VARCHAR2(30)       | Null                 | No             | No             |
-| secondary_medium_desc | e.g. US, non_USD, personal, cashiers, counter etc. | secondary_medium_desc | VARCHAR2(30)       | Null                 | No             | No             |
-| mechanism_desc        | e.g. Teller, ATM, Online                           | mechanism_desc        | VARCHAR2(20)       | Null                 | No             | No             |
-| tertiary_medium_desc  | e.g. Fee, Reload, Purchase                         | tertiary_medium_desc  | VARCHAR2(30)       | Null                 | No             | No             |
+| Attribute Name        | Attribute Definition                               | Column Data Type   | Column Null Option   | Column Is PK   | Column Is FK   |
+|:----------------------|:---------------------------------------------------|:-------------------|:---------------------|:---------------|:---------------|
+| transaction_type_key  | Surrogate key                                      | NUMBER(12)         | Not Null             | Yes            | No             |
+| funds_securities_code | F (funds i.e. money) vs S (securities)             | CHAR(1)            | Null                 | No             | No             |
+| funds_securities_desc | Descriptive version of the code for UI display.    | VARCHAR2(20)       | Null                 | No             | No             |
+| transaction_cdi_code  | D-Debit, C-Credit, E-Event                         | CHAR(1)            | Null                 | No             | No             |
+| transaction_cdi_desc  | Descriptive version of the code for UI display.    | VARCHAR2(20)       | Null                 | No             | No             |
+| primary_medium_desc   | e.g. Cash, Check.                                  | VARCHAR2(30)       | Null                 | No             | No             |
+| secondary_medium_desc | e.g. US, non_USD, personal, cashiers, counter etc. | VARCHAR2(30)       | Null                 | No             | No             |
+| mechanism_desc        | e.g. Teller, ATM, Online                           | VARCHAR2(20)       | Null                 | No             | No             |
+| tertiary_medium_desc  | e.g. Fee, Reload, Purchase                         | VARCHAR2(30)       | Null                 | No             | No             |
 
-[Back to index](./README.md)
+[Back to index](./index.md)
