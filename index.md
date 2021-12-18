@@ -1,3 +1,7 @@
+# FCFCORE
+---
+SAS AML FCFCORE data dictionary
+
 * [FSC_ACCOUNT_ANALYSIS_DIM](./fsc_account_analysis_dim.md)
 * [FSC_ACCOUNT_DIM](./fsc_account_dim.md)
 * [FSC_ACCOUNT_EVENT_FACT](./fsc_account_event_fact.md)
