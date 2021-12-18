@@ -25,4 +25,4 @@ SAS AML FCFCORE data dictionary
 | [FSC_HOUSEHOLD_ACCOUNT_BRIDGE](./fsc_household_account_bridge.md) | [FSC_TRANSACTION_DIM](./fsc_transaction_dim.md) |
 | [FSC_HOUSEHOLD_DIM](./fsc_household_dim.md) | [FSC_TRANSACTION_STATUS_DIM](./fsc_transaction_status_dim.md) |
 | [FSC_HOUSEHOLD_PARTY_BRIDGE](./fsc_household_party_bridge.md) | [FSC_TRANSACTION_TYPE_DIM](./fsc_transaction_type_dim.md) |
-
+| [FSC_LOCATION_WATCH_LIST_DIM](./fsc_location_watch_list_dim.md) | |
