@@ -28,6 +28,6 @@ Address table containing the additional addresses that cannot be stored in FSC_A
 | change_begin_date     | Date from which this row was valid.                                                                                                                | DATE               | Null                 | No   | No   |
 | change_end_date       | Date to which this row was valid.                                                                                                                  | DATE               | Not Null             | No   | No   |
 | change_current_ind    | Is this the current instance (Y/N).                                                                                                                | CHAR(1)            | Not Null             | No   | No   |
-| party_number          | Source system's customer identifier..                                                                                                              | VARCHAR2(50)       | Null                 | No   | Yes  |
+| party_number          | Source system's customer identifier\.                                                                                                              | VARCHAR2(50)       | Null                 | No   | Yes  |
 
 [Back to index](./index.md)

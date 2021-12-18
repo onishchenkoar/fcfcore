@@ -8,7 +8,7 @@ A monthly snapshot of a party's transactional activity.
 
 | Column Name               | Column Definition                                                                                                | Column Data Type   | Column Null Option   | PK   | FK   |
 |:--------------------------|:-----------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|
-| party_number              | Source system's customer identifier..                                                                            | VARCHAR2(50)       | Not Null             | Yes  | No   |
+| party_number              | Source system's customer identifier\.                                                                            | VARCHAR2(50)       | Not Null             | Yes  | No   |
 | month_key                 | Meaningful surrogate key of format yyyymm.                                                                       | NUMBER(6,0)        | Not Null             | No   | Yes  |
 | segment_id                | Multibank configurations use this column to indicate which bank the record belongs to.                           | VARCHAR2(128)      | Not Null             | No   | Yes  |
 | aggregate_assets_amount   | Total assets across all accounts.  Only includes assets, does not include loan amounts.                          | NUMBER(18,5)       | Null                 | No   | No   |

@@ -8,8 +8,8 @@ table for defining the attributes for party to party relationship. For example, 
 
 | Column Name            | Column Definition                                                                      | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-----------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|
-| party_number           | Source system's customer identifier..                                                  | VARCHAR2(50)       | Not Null             | No   | Yes  |
-| party_number           | Source system's customer identifier..                                                  | VARCHAR2(50)       | Not Null             | No   | Yes  |
+| party_number           | Source system's customer identifier\.                                                  | VARCHAR2(50)       | Not Null             | No   | Yes  |
+| party_number           | Source system's customer identifier\.                                                  | VARCHAR2(50)       | Not Null             | No   | Yes  |
 | relationship_type_code | The type of relationship between the two parties.                                      | VARCHAR2(20)       | Not Null             | No   | Yes  |
 | attribute_type_code    | Party to party relationship attribute data type (CHAR, NUM, DATE)                      | VARCHAR2(35)       | Not Null             | Yes  | No   |
 | segment_id             | Multibank configurations use this column to indicate which bank the record belongs to. | VARCHAR2(128)      | Not Null             | Yes  | No   |
