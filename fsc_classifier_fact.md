@@ -1,10 +1,10 @@
 # FSC_CLASSIFIER_FACT
 
-[Back to index](./index.md)
-
 ---
 
 A monthly snapshot of a the risk classification factors for a customer. Stores intermediate data used by Risk Classification to produce Risk Assessments. This table will contain one record for each party for a given month_key.
+
+[Back to index](./index.md)
 
 | Column Name                   | Column Definition                                                                                                                                          | Column Data Type   | Column Null Option   | PK   | FK   |
 |:------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

@@ -1,10 +1,10 @@
 # FSC_COUNTRY_DIM
 
-[Back to index](./index.md)
-
 ---
 
 Country Codes. Shipped with recent version of ISO country codes.
+
+[Back to index](./index.md)
 
 | Column Name    | Column Definition                        | Column Data Type   | Column Null Option   | PK   | FK   |
 |:---------------|:-----------------------------------------|:-------------------|:---------------------|:-----|:-----|

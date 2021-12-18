@@ -1,10 +1,10 @@
 # FSC_ACCOUNT_ANALYSIS_DIM
 
-[Back to index](./index.md)
-
 ---
 
 Analytical data captured periodically (as often as client decides).  No history is maintained.
+
+[Back to index](./index.md)
 
 | Column Name                    | Column Definition                                                                                                                                                                                                  | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

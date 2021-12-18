@@ -1,10 +1,10 @@
 # FSC_PEER_GROUP_ASSIGNMENT
 
-[Back to index](./index.md)
-
 ---
 
 Table to hold which peer groups are assigned to entities
+
+[Back to index](./index.md)
 
 | Column Name        | Column Definition                                                                      | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

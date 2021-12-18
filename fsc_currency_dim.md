@@ -1,10 +1,10 @@
 # FSC_CURRENCY_DIM
 
-[Back to index](./index.md)
-
 ---
 
 Currency Codes.  Shipped with recent version of the ISO Currency Codes.
+
+[Back to index](./index.md)
 
 | Column Name   | Column Definition                            | Column Data Type   | Column Null Option   | PK   | FK   |
 |:--------------|:---------------------------------------------|:-------------------|:---------------------|:-----|:-----|

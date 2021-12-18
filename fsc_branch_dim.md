@@ -1,10 +1,10 @@
 # FSC_BRANCH_DIM
 
-[Back to index](./index.md)
-
 ---
 
 The location of the execution of a transaction.  e.g. Branch #123, ATM #3343433
+
+[Back to index](./index.md)
 
 | Column Name         | Column Definition                                                                      | Column Data Type   | Column Null Option   | PK   | FK   |
 |:--------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

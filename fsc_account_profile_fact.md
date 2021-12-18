@@ -1,10 +1,10 @@
 # FSC_ACCOUNT_PROFILE_FACT
 
-[Back to index](./index.md)
-
 ---
 
 A monthly snapshot of an account's transactional activity.
+
+[Back to index](./index.md)
 
 | Column Name                  | Column Definition                                                                                                                                       | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-----------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

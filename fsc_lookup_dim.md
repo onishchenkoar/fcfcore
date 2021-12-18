@@ -1,10 +1,10 @@
 # FSC_LOOKUP_DIM
 
-[Back to index](./index.md)
-
 ---
 
 Generic lookup table for storing values.
+
+[Back to index](./index.md)
 
 | Column Name              | Column Definition                                                                      | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-------------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

@@ -1,10 +1,10 @@
 # FSC_TIME_DIM
 
-[Back to index](./index.md)
-
 ---
 
 The seconds in a day.
+
+[Back to index](./index.md)
 
 | Column Name   | Column Definition                                                                                                    | Column Data Type   | Column Null Option   | PK   | FK   |
 |:--------------|:---------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

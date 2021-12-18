@@ -1,10 +1,10 @@
 # FSC_PEER_GROUP_ENTITY_SUMMARY
 
-[Back to index](./index.md)
-
 ---
 
 table to hold entity summary statistics
+
+[Back to index](./index.md)
 
 | Column Name              | Column Definition                                                                      | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-------------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

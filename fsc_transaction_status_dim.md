@@ -1,10 +1,10 @@
 # FSC_TRANSACTION_STATUS_DIM
 
-[Back to index](./index.md)
-
 ---
 
 The outcome of a transaction e.g. SUCCESS or FAILURE because EXCEEDED DAILY LIMIT.
+
+[Back to index](./index.md)
 
 | Column Name            | Column Definition               | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-----------------------|:--------------------------------|:-------------------|:---------------------|:-----|:-----|

@@ -1,10 +1,10 @@
 # FSC_HOUSEHOLD_ACCOUNT_BRIDGE
 
-[Back to index](./index.md)
-
 ---
 
 Which accounts are in which households.  This is derived from the household-party and party-account bridges.
+
+[Back to index](./index.md)
 
 | Column Name        | Column Definition                                                                      | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

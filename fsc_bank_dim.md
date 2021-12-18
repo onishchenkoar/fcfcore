@@ -1,10 +1,10 @@
 # FSC_BANK_DIM
 
-[Back to index](./index.md)
-
 ---
 
 Describes a banking organization.  It may be an external bank or a unit of the client's organization.
+
+[Back to index](./index.md)
 
 | Column Name        | Column Definition                                                                      | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

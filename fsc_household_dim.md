@@ -1,10 +1,10 @@
 # FSC_HOUSEHOLD_DIM
 
-[Back to index](./index.md)
-
 ---
 
 Any grouping of parties or accounts which is considered relevant for anti-money laundering purposes.  The naming of this table suggest the traditional marketing definition of a household, but any grouping can be created.  The household type will describe the nature of the relationship.  A party can be in multiple households, but only one of a given type.
+
+[Back to index](./index.md)
 
 | Column Name            | Column Definition                                                                              | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-----------------------|:-----------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

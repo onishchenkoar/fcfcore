@@ -1,10 +1,10 @@
 # FSC_PARTY_ACCOUNT_BRIDGE
 
-[Back to index](./index.md)
-
 ---
 
 Which parties play which roles on an account.  Types include: Primary Owner, Secondary Owner, Signer, Beneficiary, Insured.
+
+[Back to index](./index.md)
 
 | Column Name        | Column Definition                                                                                                                                                                                                                                                        | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

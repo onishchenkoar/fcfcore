@@ -1,10 +1,10 @@
 # FSC_PEER_GROUP_ENTITY_HISTORY
 
-[Back to index](./index.md)
-
 ---
 
 Table to hold entity history statistics
+
+[Back to index](./index.md)
 
 | Column Name                | Column Definition                                                                                                                                                                              | Column Data Type   | Column Null Option   | PK   | FK   |
 |:---------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

@@ -1,10 +1,10 @@
 # FSC_HOUSEHOLD_PARTY_BRIDGE
 
-[Back to index](./index.md)
-
 ---
 
 Which parties are included in which households.
+
+[Back to index](./index.md)
 
 | Column Name        | Column Definition                                                                      | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

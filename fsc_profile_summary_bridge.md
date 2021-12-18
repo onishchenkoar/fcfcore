@@ -1,10 +1,10 @@
 # FSC_PROFILE_SUMMARY_BRIDGE
 
-[Back to index](./index.md)
-
 ---
 
 Bridge table to group together summary groups with profile groups.
+
+[Back to index](./index.md)
 
 | Column Name         | Column Definition                                                                      | Column Data Type   | Column Null Option   | PK   | FK   |
 |:--------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

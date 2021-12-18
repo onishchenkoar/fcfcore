@@ -1,10 +1,10 @@
 # FSC_PEER_GROUP
 
-[Back to index](./index.md)
-
 ---
 
 Table to hold peer groups
+
+[Back to index](./index.md)
 
 | Column Name        | Column Definition                                                                      | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

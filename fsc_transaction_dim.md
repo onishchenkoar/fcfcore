@@ -1,10 +1,10 @@
 # FSC_TRANSACTION_DIM
 
-[Back to index](./index.md)
-
 ---
 
 A supplementary table to the transaction facts used to capture additional, typically verbose, data that about a transaction.  Storing this data here helps keep the fact table "skinny" and therefore smaller than they would otherwise be.
+
+[Back to index](./index.md)
 
 | Column Name                  | Column Definition                                                                                                                                                                                                              | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|

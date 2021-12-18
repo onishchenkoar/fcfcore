@@ -1,10 +1,10 @@
 # FSC_PARTY_ASSOC
 
-[Back to index](./index.md)
-
 ---
 
 Relates one party to another. The relationship is described by the relationship_type_code.
+
+[Back to index](./index.md)
 
 | Column Name            | Column Definition                                                                      | Column Data Type   | Column Null Option   | PK   | FK   |
 |:-----------------------|:---------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|
