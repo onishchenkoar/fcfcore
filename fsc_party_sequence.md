@@ -1,4 +1,4 @@
-# **FSC_PARTY_SEQUENCE**
+# FSC_PARTY_SEQUENCE
 
 ---
 
@@ -6,9 +6,9 @@ The next identifier available to be used as a party_key in fsc_party_dim. This t
 
 [Back to index](./index.md)
 
-| Column Name      | Column Definition                                                                                                                                                                   | Column Data Type   | Column Null Option   | PK   | FK   |
-|:-----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|
-| segment_id       | Multibank configurations use this column to indicate which bank the record belongs to.                                                                                              | VARCHAR2(128)      | Not Null             | Yes  | No   |
-| next_sequence_id | The next identifier available to be used as a party_key in fsc_party_dim. The user must read this value and immediately increment, update and commit to allow the next user access. | NUMBER(12)         | Not Null             | No   | No   |
+| Column Name          | Column Definition                                                                                                                                                                   | Column Data Type   | Column Null Option   | PK   | FK   |
+|:---------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|
+| **SEGMENT_ID**       | Multibank configurations use this column to indicate which bank the record belongs to.                                                                                              | VARCHAR2(128)      | Not Null             | Yes  | No   |
+| **NEXT_SEQUENCE_ID** | The next identifier available to be used as a party_key in fsc_party_dim. The user must read this value and immediately increment, update and commit to allow the next user access. | NUMBER(12)         | Not Null             | No   | No   |
 
 [Back to index](./index.md)
