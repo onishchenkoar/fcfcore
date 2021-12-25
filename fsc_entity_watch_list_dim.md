@@ -7,7 +7,8 @@ External entities of interest for AML monitoring purposes obtained from publicly
 [Back to index](./index.md)
 
 | Column Name                        | Column Definition                                                                                                   | Column Data Type   | Column Null Option   | PK   | FK   |
-|:-----------------------------------|:--------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|| **ENTITY_WATCH_LIST_KEY**          | System generated surrogate key.                                                                                     | NUMBER(12)         | Not Null             | Yes  | No   |
+|:-----------------------------------|:--------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|
+| **ENTITY_WATCH_LIST_KEY**          | System generated surrogate key.                                                                                     | NUMBER(12)         | Not Null             | Yes  | No   |
 | **ENTITY_WATCH_LIST_NUMBER**       | Natural key for an individual list entry from source.  e.g. WorldCheck = UID.                                       | VARCHAR2(35)       | Not Null             | No   | No   |
 | **ENTITY_WATCH_LIST_NAME**         | Ten character code for watch list.                                                                                  | CHAR(10)           | Not Null             | No   | No   |
 | **CATEGORY_DESC**                  | e.g. TERRORIST ORGANIZATION, PEP\.                                                                                  | VARCHAR2(50)       | Null                 | No   | No   |
