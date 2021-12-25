@@ -9,6 +9,6 @@ The next identifier available to be used as a party_key in fsc_party_dim. This t
 | Column Name          | Column Definition                                                                                                                                                                   | Column Data Type   | Column Null Option   | PK   | FK   |
 |:---------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|
 | **SEGMENT_ID**       | Multibank configurations use this column to indicate which bank the record belongs to.                                                                                              | VARCHAR2(128)      | Not Null             | Yes  | No   |
-| **NEXT_SEQUENCE_ID** | The next identifier available to be used as a party_key in fsc_party_dim. The user must read this value and immediately increment, update and commit to allow the next user access. | NUMBER(12)         | Not Null             | No   | No   |
+| **NEXT_SEQUENCE_ID** | The next identifier available to be used as a PARTY_KEY in [FSC_PARTY_DIM](./fsc_party_dim.md). The user must read this value and immediately increment, update and commit to allow the next user access. | NUMBER(12)         | Not Null             | No   | No   |
 
 [Back to index](./index.md)
