@@ -11,7 +11,7 @@ Countries appearing on selected country watch lists (e.g. NCCT list).
 | **LOCATION_WATCH_LIST_KEY**    | Surrogate key.                                                           | NUMBER(12)         | Not Null             | Yes  | No   |
 | **LOCATION_WATCH_LIST_NUMBER** | Natural key from watch list provider                                     | VARCHAR2(35)       | Not Null             | No   | No   |
 | **WATCH_LIST_NAME**            | Name of watch list.                                                      | CHAR(4)            | Not Null             | No   | No   |
-| **PROGRAM**                    | Programs associated with this list(e.g. OFAC~ USDOJ~INTERPOL).           | VARCHAR2(20)       | Null                 | No   | No   |
+| **PROGRAM**                    | Programs associated with this list (e.g. OFAC~ USDOJ~INTERPOL).           | VARCHAR2(20)       | Null                 | No   | No   |
 | **COUNTRY_CODE**               | Country code of location.                                                | CHAR(3)            | Null                 | No   | No   |
 | **COUNTRY_NAME**               | Country name of location.                                                | VARCHAR2(255)      | Null                 | No   | No   |
 | **MATCH_CODE_COUNTRY_NAME**    | Match code generated from country name                                   | VARCHAR2(15)       | Null                 | No   | No   |
