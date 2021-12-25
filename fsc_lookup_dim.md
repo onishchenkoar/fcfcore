@@ -15,7 +15,7 @@ Generic lookup table for storing values.
 | **LOOKUP_CODE**              | The lookup code.                                                                       | VARCHAR2(35)       | Not Null             | No   | No   |
 | **LOOKUP_KEY**               | Surrogate key for the lookup dimension.                                                | NUMBER(12)         | Not Null             | Yes  | No   |
 | **SEGMENT_ID**               | Multibank configurations use this column to indicate which bank the record belongs to. | VARCHAR2(128)      | Not Null             | Yes  | No   |
-| **LOOKUP_LEVEL_1_TYPE_CODE** | Th level one look up type code.                                                        | VARCHAR2(3)        | Not Null             | No   | No   |
+| **LOOKUP_LEVEL_1_TYPE_CODE** | The level one lookup type code.                                                        | VARCHAR2(3)        | Not Null             | No   | No   |
 | **LOOKUP_LEVEL_2_TYPE_CODE** | The level two lookup type code.                                                        | VARCHAR2(28)       | Not Null             | No   | No   |
 | **LOOKUP_NUM_VALUE**         | Numeric value for lookup.                                                              | NUMBER(18,5)       | Null                 | No   | No   |
 | **LOOKUP_DATE_VALUE**        | Date value for lookup.                                                                 | DATE               | Null                 | No   | No   |
