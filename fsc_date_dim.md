@@ -19,7 +19,7 @@ Calendar date table.
 | **WEEK_NUMBER_IN_MONTH**  | Which week of the month it is e.g. 3(rd week)                                                                                          | NUMBER(1,0)        | Null                 | No   | No   |
 | **WEEK_NUMBER_IN_YEAR**   | Which week of the year it is e.g. 52(nd)                                                                                               | NUMBER(2,0)        | Null                 | No   | No   |
 | **MONTH_NUMBER_IN_YEAR**  | Number of the month e.g. 3(March)                                                                                                      | NUMBER(2,0)        | Null                 | No   | No   |
-| **MONTH_KEY**             | Foreign Key to the MONTH_DIM table                                                                                                     | NUMBER(6,0)        | Null                 | No   | No   |
+| **MONTH_KEY**             | Foreign Key to the [FSC_MONTH_DIM](./fsc_month_dim.md) table                                                                                                     | NUMBER(6,0)        | Null                 | No   | No   |
 | **MONTH_AND_YEAR**        | Month and Year combined e.g. 032003 (March 2003)                                                                                       | CHAR(6)            | Null                 | No   | No   |
 | **MONTH_NAME**            | Name of Month e.g. March                                                                                                               | VARCHAR2(9)        | Null                 | No   | No   |
 | **MONTH_NAME_SHORT**      | Abbreviated month name e.g. MAR                                                                                                        | CHAR(3)            | Null                 | No   | No   |
@@ -34,7 +34,7 @@ Calendar date table.
 | **HOLIDAY_NAME**          | If a holiday which holiday is it?  e.g. Independence Day                                                                               | CHAR(9)            | Null                 | No   | No   |
 | **WEEK_DAY_IND**          | Is this day a weekday? Y/N                                                                                                             | CHAR(1)            | Null                 | No   | No   |
 | **END_OF_MONTH_IND**      | Is this day the last day of the month Y/N                                                                                              | CHAR(1)            | Null                 | No   | No   |
-| **ECONOMIC_RELEASE_DESC** | release is a economic release by the government. ie. gdp, michigan sentiment, housing starts fed omc etc.                              | VARCHAR2(20)       | Null                 | No   | No   |
-| **ECONOMIC_EVENT_DESC**   | events, are non planned ie. rate changes, etc.                                                                                         | VARCHAR2(20)       | Null                 | No   | No   |
+| **ECONOMIC_RELEASE_DESC** | Release is a economic release by the government, i.e. gdp, michigan sentiment, housing starts fed omc etc.                              | VARCHAR2(20)       | Null                 | No   | No   |
+| **ECONOMIC_EVENT_DESC**   | Events, are non planned ie. rate changes, etc.                                                                                         | VARCHAR2(20)       | Null                 | No   | No   |
 
 [Back to index](./index.md)
